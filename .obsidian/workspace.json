@@ -25,14 +25,12 @@
             "id": "34d1760261b266bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Shaders/Toon Shading.md",
-                "mode": "source",
-                "source": false
+                "file": "GameDesign/prototype.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Toon Shading"
+              "icon": "lucide-file-text",
+              "title": "prototype"
             }
           }
         ],
@@ -180,10 +178,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34d1760261b266bc",
+  "active": "b6c4f6d49bb51115",
   "lastOpenFiles": [
-    "GameDesign/prototype.pdf",
+    "功能实现-做药",
     "Shaders/Toon Shading.md",
+    "GameDesign/prototype.pdf",
     "Shaders/Pasted image 20250208161056.png",
     "Shaders/Pasted image 20250207005927.png",
     "Shaders/Outlines based on Depth and Normal.md",
