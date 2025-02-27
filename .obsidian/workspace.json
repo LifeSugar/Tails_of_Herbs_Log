@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "1c98371d88a9120b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
             "id": "34d1760261b266bc",
             "type": "leaf",
             "state": {
@@ -37,6 +51,20 @@
             "id": "c266823eeffe0003",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "像素摄像机系统（Pixel Camera System).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "像素摄像机系统（Pixel Camera System)"
+            }
+          },
+          {
+            "id": "65750f1c5265b4b8",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "GameDesign/prototype.pdf"
@@ -44,9 +72,23 @@
               "icon": "lucide-file-text",
               "title": "prototype"
             }
+          },
+          {
+            "id": "587284ba8189ce07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shaders/体积光/体积光算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "体积光算法"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,16 +232,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c266823eeffe0003",
+  "active": "1c98371d88a9120b",
   "lastOpenFiles": [
-    "像素摄像机系统（Pixel Camera System).md",
+    "Shaders/Toon Shading.md",
+    "未命名.md",
+    "Shaders/体积光/体积光算法.md",
+    "Clippings/ChatGPT.md",
     "GameDesign/prototype.pdf",
+    "Clippings",
+    "Shaders/体积光",
+    "UI/煎药.md",
+    "像素摄像机系统（Pixel Camera System).md",
+    "UI",
     "Shaders/Pasted image 20250214204311.png",
     "Shaders/Outlines based on Depth and Normal.md",
     "Shaders/Pasted image 20250214212316.png",
     "Shaders/Pasted image 20250214211656.png",
     "功能实现-做药",
-    "Shaders/Toon Shading.md",
     "Shaders/Pasted image 20250208161056.png",
     "Shaders/Pasted image 20250207005927.png",
     "GameDesign",
